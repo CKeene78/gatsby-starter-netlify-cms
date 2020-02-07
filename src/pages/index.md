@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Christopher Keene
 image: /img/home-jumbotron.jpg
-heading: Technology Roles
+heading: ' '
 subheading: Multi-language techno-mage that rocks whatever I touch.
 mainpitch:
   title: Multi-Language Techno-...What?
