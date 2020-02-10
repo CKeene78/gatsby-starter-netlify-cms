@@ -63,18 +63,22 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 About
               </Link>
+              {/*
               <Link className="navbar-item" to="/products">
                 Products
               </Link>
+              */}
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
+              {/*
               <Link className="navbar-item" to="/contact/examples">
                 Form Examples
               </Link>
+              */}
             </div>
             <div className="navbar-end has-text-centered">
               <a
@@ -83,9 +87,11 @@ const Navbar = class extends React.Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
+                {/*
                 <span className="icon">
                   <img src={github} alt="Github" />
                 </span>
+                */}
               </a>
             </div>
           </div>
