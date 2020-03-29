@@ -21,11 +21,7 @@ tags:
   - Outlook
   - Zoom
 ---
-# Introduction
-
 Providers are working from home but still need face-to-face interaction with patients. We have standardized on the Zoom platform. While the patients need to be emailed the Zoom meeting link we do not want the email coming from the provider. We set up a shared mailbox to send it from but ran into two problems: providers need to remember to change which account the email is coming from and provider signature blocks, containing their email and phone number, is often automatically added to new outgoing emails. Our solution: have the providers enter the information into a web app and have the app email the link to the patient email addresses. 
-
-
 
 # Technologies Used
 
