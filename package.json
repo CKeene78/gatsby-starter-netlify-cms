@@ -31,6 +31,9 @@
     "react-helmet": "^5.2.1",
     "uuid": "^3.4.0"
   },
+  "engines": {
+    "node": "12.18.3"
+  },
   "keywords": [
     "gatsby"
   ],
