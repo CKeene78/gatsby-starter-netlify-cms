@@ -16,15 +16,16 @@ tags:
   - Vue
   - Web App
 ---
+
+# Solution
+
+In order to generate data you need a way to collect it first. So,what are users going to see and interact with? A web page, of course! I’m a big fan of single page applications (SPA) and the questions and flows are rather simple. So we have a single HTML file divided into several `<section>` tags that represent individual screens. Only one `<section>`will be seen at a time as determined by the section’s `visible` property, and each `<section>`is absolutely positioned so will always show up at the top of the screen. Essentially each `<section>` is stacked on top of each other and we use JavaScript and CSS to determine which *page* is shown.We use Vue to collect the responses across the screens and send to the middle processing tier.
+
 # Links
 
 Demo: [https://covid19selfcertify.keenecreations.com](https://covid19selfcertify.keenecreations.com/)
 
 GitHub: <https://github.com/CKeene78/COVID19SelfCertify>
-
-# Solution
-
-In order to generate data you need a way to collect it first. So,what are users going to see and interact with? A web page, of course! I’m a big fan of single page applications (SPA) and the questions and flows are rather simple. So we have a single HTML file divided into several `<section>` tags that represent individual screens. Only one `<section> `will be seen at a time as determined by the section’s `visible` property, and each `<section> `is absolutely positioned so will always show up at the top of the screen. Essentially each `<section>` is stacked on top of each other and we use JavaScript and CSS to determine which *page* is shown.We use Vue to collect the responses across the screens and send to the middle processing tier.
 
 # Technologies
 
