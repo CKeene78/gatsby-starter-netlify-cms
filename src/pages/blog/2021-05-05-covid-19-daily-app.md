@@ -2,11 +2,7 @@
 templateKey: blog-post
 title: COVID-19 Daily App
 date: 2021-05-05T19:41:00.000Z
-description: >-
-  Like many places that are trying to bring people back to work our facility
-  wanted to implement a program for individuals, specifically staff, to do daily
-  self-assertion that they are not sick and have not engaged in risky behavior.
-  Has since become a way to remain within industry compliance requirements.  
+description: '  '
 featuredpost: true
 featuredimage: /img/Screenshot 2021-05-05 at 3.44.56 PM.png
 tags:
@@ -16,6 +12,7 @@ tags:
   - Vue
   - Web App
 ---
+Like many places that are trying to bring people back to work our facility wanted to implement a program for individuals, specifically staff, to do daily self-assertion that they are not sick and have not engaged in risky behavior. Has since become a way to remain within industry compliance requirements.  
 
 # Solution
 
