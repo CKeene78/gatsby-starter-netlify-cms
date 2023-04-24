@@ -1,6 +1,5 @@
 ---
 templateKey: about-page
-path: /about
 title: Where to find this Awesome Individual
 ---
 # Where to Find Me:
@@ -12,6 +11,9 @@ title: Where to find this Awesome Individual
 [Twitter](https://twitter.com/ChrisKeeneMA)
 
 [GitHub](https://github.com/CKeene78)
+
+<a rel="me" href="https://techhub.social/@ckeene">Mastodon</a>
+
 
 
 
