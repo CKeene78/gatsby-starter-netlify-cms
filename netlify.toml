@@ -4,5 +4,6 @@
   functions = "lambda"
   ignore = "git diff --quiet HEAD^ HEAD sub_dir/"
 [build.environment]
-  YARN_VERSION = "1.9.4"
+  NODE_VERSION = "14.15.0"
+  YARN_VERSION = "1.22.4"
   YARN_FLAGS = "--no-ignore-optional"
