@@ -15,7 +15,7 @@
     "gatsby-plugin-sharp": "^5.9.0",
     "gatsby-remark-copy-linked-files": "^5.0.0",
     "gatsby-remark-images": "^7.9.0",
-    "gatsby-remark-relative-images": "^2.0.2",
+    "gatsby-remark-relative-images-v2": "^0.1.5",
     "gatsby-source-filesystem": "^5.9.0",
     "gatsby-transformer-remark": "^6.10.0",
     "gatsby-transformer-sharp": "^5.9.0",
