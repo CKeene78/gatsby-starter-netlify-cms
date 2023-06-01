@@ -30,7 +30,8 @@
     "react-dom": "^17.0.0",
     "react-helmet": "^6.0.0",
     "sass": "^1.43.2",
-    "uuid": "^8.0.0"
+    "uuid": "^8.0.0",
+    "webpack": "^5.85.0"
   },
   "engines": {
     "node": ">=18.0.0"
